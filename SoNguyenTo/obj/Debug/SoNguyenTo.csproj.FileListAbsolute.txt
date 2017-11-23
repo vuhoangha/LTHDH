@@ -1,0 +1,9 @@
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csprojResolveAssemblyReference.cache
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.Form1.resources
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.Properties.Resources.resources
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.GenerateResource.Cache
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+E:\HocTap\LTHDH\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
